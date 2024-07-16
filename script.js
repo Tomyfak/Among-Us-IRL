@@ -1,14 +1,15 @@
 /*!
-Parts of this script are from the TurboWarp Packager <https://packager.turbowarp.org/>, licensed as follows:
-Copyright (C) 2021-2024 Thomas Weber
+Written with love by Tomyfak for the fakhreddine family the 16 of july (last revision)
+
+Parts of this script are from the Manganese Packager, licensed as follows:
+Copyright (C) 2022-2023 Glyph Games Studios
 
 The Source Code Form of this program is available under the terms of the
 Mozilla Public License, v. 2.0. You can obtain a copy of the license at
 https://www.mozilla.org/en-US/MPL/2.0/.
 
-Parts of this script are from Scratch <https://scratch.mit.edu/>, licensed as follows:
-Copyright (c) 2016, Massachusetts Institute of Technology
-All rights reserved.
+Parts of this script are from Turbowarp <https://turbowarp.org//>, licensed as follows:
+Copyright (c) 2021-2024 Thomas Weber.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
